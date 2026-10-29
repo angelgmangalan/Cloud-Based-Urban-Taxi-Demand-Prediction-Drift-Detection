@@ -1,0 +1,17 @@
+{
+  "total_rows": 101246797,
+  "passenger_count_null": 527484,
+  "passenger_count_out_of_range": 1857673,
+  "missing_required": 0,
+  "pickup_outside_period": 1135,
+  "invalid_duration": 1293899,
+  "invalid_distance": 947351,
+  "invalid_zone": 955661,
+  "removed_invalid": 2414034,
+  "rows_clean": 98660798,
+  "duplicates_removed": 171965,
+  "demand_rows": 13705632,
+  "period_start": "2019-01-01",
+  "period_end": "2020-07-01",
+  "interval_min": 15
+}
