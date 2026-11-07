@@ -1,0 +1,6 @@
+,MAE,RMSE,WAPE
+naive_lag1w,1.3377,5.9431,0.3721
+linear,0.9114,3.1742,0.2535
+static,0.8991,2.8796,0.2501
+periodic_expanding,0.7916,2.7875,0.2202
+periodic_sliding,0.8193,2.9706,0.2279

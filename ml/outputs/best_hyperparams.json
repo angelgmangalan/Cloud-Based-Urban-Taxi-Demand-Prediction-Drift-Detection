@@ -1,0 +1,5 @@
+{
+  "max_depth": 6,
+  "n_estimators": 710,
+  "val_rmse": 4.383044546715895
+}
